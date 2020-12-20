@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:claudia.chajon@gmail.com)
 
 
+<img align="right" alt="img" src="Pink Lemon Threads (1).mp4" width="50%" height="auto" />
 
 
 
