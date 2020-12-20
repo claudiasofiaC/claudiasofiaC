@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:claudia.chajon@gmail.com)
 
 
-<img align="right" alt="img" src="Pink Lemon Threads (2).png" width="50%" height="auto" />
+<img align="right" alt="img" src="Pink Lemon Threads (3).png" width="50%" height="auto" />
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC)](https://github.com/claudiasofiaC/github-readme-stats)
