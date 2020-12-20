@@ -8,7 +8,8 @@
 <img align="right" alt="img" src="Pink Lemon Threads (3).png" width="50%" height="auto" />
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC)](https://github.com/claudiasofiaC/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=radical)](https://github.com/claudiasofiaC/github-readme-stats)
+
 
 
 <!--
