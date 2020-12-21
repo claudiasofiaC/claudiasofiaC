@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="gifgif.gif" />
 
 ## Hi, I am Claudia
-Data Scientist | Machine Learning
+Data Science | Machine Learning
 
 ### 🌱 Get In Touch
 [![Website Badge](https://img.shields.io/badge/-claudiasofiaC-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://claudiasofiac.github.io//claudiasofiaC/)](https://claudiasofiac.github.io/) 
