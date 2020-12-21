@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="gifgif.gif" />
+
 ### Hi, I am Claudia
 Data Scientist | Machine Learning
 
@@ -9,13 +11,11 @@ Data Scientist | Machine Learning
 ## About Me
 🗽 Born and raised New Yorker | 🧶 Crochet | 🌱 Plants. 
 
-<img align="right" alt="GIF" src="gifgif.gif" />
 
 
 See my [CV](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) to get more info
 [![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=radical)](https://github.com/claudiasofiaC/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiasofiaC&theme=radical)
 
 
 <!--
