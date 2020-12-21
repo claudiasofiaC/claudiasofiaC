@@ -2,7 +2,12 @@
 
 
 ## Hi, I'm Claudia
-Data Science | Machine Learning
+Passionate about Data Science and Machine Learning
+## About Me
+🗽 Born and raised New Yorker | 🧶 Crochet | 🌱 Plants |
+👽 Science Fiction | 💅🏽 Left Handed | 🏝 Always willing to discuss the movie Contact 
+
+#### [Resume](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) for more 💻
 
 ### 🌱 Get In Touch
 [![Website Badge](https://img.shields.io/badge/-claudiasofiaC-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://claudiasofiac.github.io//claudiasofiaC/)](https://claudiasofiac.github.io/) 
@@ -12,13 +17,7 @@ Data Science | Machine Learning
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@claudia.chajon)](https://medium.com/@claudia.chajon)
 
 
-## About Me
-🗽 Born and raised New Yorker | 🧶 Crochet | 🌱 Plants |
-👽 Science Fiction | 💅🏽 Left Handed | 🏝 Always willing to discuss the movie Contact 
 
-
-
-#### See my [CV](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) for more 💻
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=radical)](https://github.com/claudiasofiaC/github-readme-stats)
 
