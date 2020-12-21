@@ -8,6 +8,8 @@
 Hi, I am Claudia,
 Data Scientist with a passion for messing around with data
 <img align="right" alt="GIF" src="gifgif.gif" />
+
+
 See my [CV](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) to get more info
 
 
