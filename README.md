@@ -9,7 +9,7 @@ Data Scientist | Machine Learning
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@claudia.chajon)](https://medium.com/@claudia.chajon)
 
 
-[Email me ☕️](mailto:claudia.chajon@gmail.com)
+Email me at ☕️ [claudia.chajon@gmail.com](mailto:claudia.chajon@gmail.com)
 
 ## About Me
 🗽 Born and raised New Yorker | 🧶 Crochet | 🌱 Plants 
