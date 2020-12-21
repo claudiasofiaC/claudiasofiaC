@@ -1,17 +1,5 @@
-<img align="left" width="400" height="400" src="brushstoke.png">
+<img align="right" alt="GIF" src="Hi.gif" />
 
-<img align="right" alt="GIF" src="Pink Lemon Threads.gif" />
-
-
-
-
-
-
-
-
-
-
---
 
 ## Hi, I'm Claudia
 Data Science | Machine Learning
