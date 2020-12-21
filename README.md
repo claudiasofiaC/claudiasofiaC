@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="gifgif.gif" />
 
-## Hi, I am Claudia
+## Hi, I'm Claudia
 Data Science | Machine Learning
 
 ### 🌱 Get In Touch
