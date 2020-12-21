@@ -15,7 +15,7 @@ Data Scientist | Machine Learning
 
 
 
-See my [CV](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) to get more info
+See my [CV](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) for more 💻
 [![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=radical)](https://github.com/claudiasofiaC/github-readme-stats)
 
 
