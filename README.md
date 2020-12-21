@@ -1,3 +1,4 @@
+![Image of name](claudiasofiaC/brushstroke.png)
 <img align="right" alt="GIF" src="Pink Lemon Threads.gif" />
 
 ## Hi, I'm Claudia
