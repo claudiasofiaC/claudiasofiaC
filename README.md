@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="Pink Lemon Threads (1).gif" />
+<img align="right" alt="GIF" src="Pink Lemon Threads .gif" />
 
 ## Hi, I'm Claudia
 Data Science | Machine Learning
