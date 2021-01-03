@@ -7,7 +7,7 @@ Passionate about Data Science and Machine Learning
 🗽 Born and raised New Yorker | 🧶 Crochet | 🌱 Plants |
 👽 Science Fiction | 💅🏽 Left Handed | 🏝 Always willing to discuss the movie Contact 
 
-#### [Resume](https://drive.google.com/file/d/1a7a26MmW8TIsi9AzVtN1TcdgZdCJUhnz/view?usp=sharing) for more 💻
+#### [Resume](https://drive.google.com/file/d/1BINbMK84BmpQThuk6DV-obHW9P2ZbS6F/view?usp=sharing) for more 💻
 
 ### 🌱 Get In Touch
 [![Website Badge](https://img.shields.io/badge/-claudiasofiaC-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.notion.so/Claudia-Chajon-d186657aed544f969eceb422e78f5517)](https://www.notion.so/Claudia-Chajon-d186657aed544f969eceb422e78f5517) 
