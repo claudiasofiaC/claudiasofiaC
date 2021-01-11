@@ -1,4 +1,4 @@
-![header](claudiasofiac/Hio.pdf)
+![header](https://github.com/claudiasofiaC/claudiasofiaC/blob/main/Hio.pdf)
 
 <img align="right" alt="GIF" src="Hiii.gif" />
 
