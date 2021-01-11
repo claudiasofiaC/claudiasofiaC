@@ -5,8 +5,9 @@
 
 <h2> Connect <h2> 
   
-<a <href=”https://www.linkedin.com/in/claudia-chajon/”>
-  <img src=”https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin"> /a>
+<a href=”https://www.linkedin.com/in/claudia-chajon/”>
+  <img src=”https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin"> 
+  </a> &nbsp;
 
 
 
