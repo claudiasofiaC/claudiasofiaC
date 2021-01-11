@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.notion.so/Claudia-Chajon-d186657aed544f969eceb422e78f5517">
-    <img src="https://img.shields.io/badge/portfolio-#000000?style=for-the-badge&logo=notion.svg&logoColor=white
+    <img src="https://img.shields.io/badge/notion-12100E?style=for-the-badge&logo=notion.svg&logoColor=white
 " />        
   </a>&nbsp;&nbsp;
     <a href="mailto:claudia.chajon@gmail.com">
