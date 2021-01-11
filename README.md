@@ -1,5 +1,3 @@
-<img src="Hi.png" alt="header" />
-
 
 <img align="right" alt="GIF" src="Hiii.gif" />
 
