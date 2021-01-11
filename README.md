@@ -3,9 +3,10 @@
 
 
 
-<h2>
-**Connect** <h2> 
-[![Linkedin: claudia-chajon](https://img.shields.io/badge/-claudia-chajon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-chajon/)](https://www.linkedin.com/in/claudia-chajon/)
+<h2> Connect <h2> 
+  
+[![Linkedin: claudia-chajon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
