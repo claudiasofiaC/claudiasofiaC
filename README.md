@@ -1,4 +1,4 @@
-<img src="/claudiasofiaC/Hio.pdf" alt="header" />
+<img src="Hio.pdf" alt="header" />
 
 
 <img align="right" alt="GIF" src="Hiii.gif" />
