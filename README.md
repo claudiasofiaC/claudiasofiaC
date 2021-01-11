@@ -1,19 +1,11 @@
 
 <img align="right" alt="GIF" src="Hi.gif" />
 
-**Connect**
-<a href="https://www.notion.so/Claudia-Chajon-d186657aed544f969eceb422e78f5517">
-  <img align="left" alt="Claudiachajon | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/claudia-chajon/">
-  <img align="left" alt="Claudiachajon LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.notion.so/Claudia-Chajon-d186657aed544f969eceb422e78f5517">
-  <img align="left" alt="Claudiachajon | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://twitter.com/ChipChajon">
-  <img align="left" alt="Claudiachajon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
+
+<h2>
+**Connect** <h2> 
+[![Linkedin: claudia-chajon](https://img.shields.io/badge/-claudia-chajon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-chajon/)](https://www.linkedin.com/in/claudia-chajon/)
 
 
 
