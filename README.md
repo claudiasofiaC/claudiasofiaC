@@ -1,14 +1,14 @@
 
-<img align="right" alt="GIF" src="HiI.gif" />
+<img align="right" alt="GIF" src="Hii.gif" />
 
 
 
 <h2> Connect <h2> 
   
- <p> 
-<a href=”https://www.linkedin.com/in/claudia-chajon/”>
-  <img src=”https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=LINKEDIN> 
-  </a> &nbsp;
+<p> 
+  <a href=”https://www.linkedin.com/in/claudia-chajon/”>
+    <img src=”https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=LINKEDIN> 
+  </a>
 </p>
 
 
