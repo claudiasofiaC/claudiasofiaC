@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/claudia-chajon/" target="blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=LINKEDIN" alt="claudiachajon" width="100px" /></a>
 
 
-
+<a href="https://twitter.com/ChipChajon" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="100px" /></a>
 
 
 
