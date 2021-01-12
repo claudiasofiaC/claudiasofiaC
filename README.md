@@ -5,7 +5,11 @@
 
 <h2> Connect <h2> 
   
-<a href="https://www.linkedin.com/in/claudia-chajon/" target="blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=LINKEDIN" alt="claudiachajon" width="40px" /></a>
+<a href="https://www.linkedin.com/in/claudia-chajon/" target="blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=LINKEDIN" alt="claudiachajon" width="100px" /></a>
+
+
+
+
 
 
 
