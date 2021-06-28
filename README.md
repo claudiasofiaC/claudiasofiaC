@@ -1,6 +1,6 @@
 
 
-
+##Hi, I'm Claudia
 
 <h2> Connect <h2> 
   
@@ -20,9 +20,19 @@
 <a href="https://twitter.com/ChipChajon" target="blank"><img align="left" src="https://img.shields.io/badge/-%40ChipChajon-9cceff?style=flat-square&logo=twitter" alt="xtenzq" width="150px" /></a>
 
 
-  
-  
 <h2>  <h2>
+  
+> Self-starter and life long learner
+  Data, software, & machine learning 
+  Computer Vision, neural networks and deep learning, algorithms
+  Crochet enthusiast, fiber artist
+  Sci-fi enjoyer 
+  Camp and pagentry connoisseur
+  Plant lady
+  
+  
+  
+<h2> <h2>  
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=cobalt)](https://github.com/claudiasofiaC/github-readme-stats)
 
