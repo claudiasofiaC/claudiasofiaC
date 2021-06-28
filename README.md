@@ -17,9 +17,11 @@
 <a href="https://twitter.com/ChipChajon" target="blank"><img align="left" src="https://img.shields.io/badge/-%40ChipChajon-9cceff?style=flat-square&logo=twitter" alt="xtenzq" width="150px" /></a>
 
 
+  
+  
 <h2>  <h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=radical)](https://github.com/claudiasofiaC/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=claudiasofiaC&show_icons=true&theme=synthwave)](https://github.com/claudiasofiaC/github-readme-stats)
 
 
 
