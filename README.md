@@ -1,5 +1,4 @@
 
-<img align="right" alt="GIF" src="Hi.gif" />
 
 
 
