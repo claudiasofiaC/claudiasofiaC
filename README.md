@@ -1,6 +1,6 @@
 
 
-##Hi, I'm Claudia
+#Hi, I'm Claudia
 
 <h2> Connect <h2> 
   
@@ -23,12 +23,13 @@
 <h2>  <h2>
   
 > Self-starter and life long learner
-  Data, software, & machine learning 
-  Computer Vision, neural networks and deep learning, algorithms
-  Crochet enthusiast, fiber artist
-  Sci-fi enjoyer 
-  Camp and pagentry connoisseur
-  Plant lady
+
+> Data, software, & machine learning 
+> Computer Vision, neural networks and deep learning, algorithms
+> Crochet enthusiast, fiber artist
+> :alien: Sci-fi enjoyer 
+> Camp and pagentry connoisseur
+> Plant lady
   
   
   
