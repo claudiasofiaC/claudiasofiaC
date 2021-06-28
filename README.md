@@ -32,7 +32,7 @@
   
 > :alien: Sci-fi enjoyer 
   
-> :sparkling_heart: Camp and pagentry connoisseur
+> :sparkling_heart: Camp and pageantry connoisseur
   
 > :seedling: Plant lady
   
