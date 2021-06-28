@@ -8,7 +8,7 @@
 
 <a href="https://drive.google.com/file/d/146kkTIuAavciSZmH_4sAsZwMW_EoR0PC/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=flat-square" alt="xtenzq" width="75px" /></a>
 
-<a href=mailto:claudia.chajon@gmail.com target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon%40gmail.com-ceff9c?style=flat-square&logo=gmail" alt="xtenzq" width="200px" /></a>
+<a href=mailto:claudia.chajon@gmail.com target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon%40gmail.com-ceff9c?style=flat-square&logo=gmail" alt="xtenzq" width="240px" /></a>
   
 <a href="https://www.linkedin.com/in/claudia-chajon/" target="blank"><img align="left" src="https://img.shields.io/badge/-%40claudia--chajon-ff9cce?style=flat-square&logo=linkedin" width="150px" /></a>
 
