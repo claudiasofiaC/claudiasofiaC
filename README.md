@@ -22,14 +22,19 @@
 
 <h2>  <h2>
   
-> Self-starter and life long learner
+> :books: Self-starter and life long learner
 
-> Data, software, & machine learning 
-> Computer Vision, neural networks and deep learning, algorithms
-> Crochet enthusiast, fiber artist
+> :computer: Data, software, & machine learning 
+  
+> :space_invader: Computer Vision, neural networks and deep learning, algorithms
+  
+> :art: Crochet enthusiast, fiber artist
+  
 > :alien: Sci-fi enjoyer 
-> Camp and pagentry connoisseur
-> Plant lady
+  
+> :sparkling_heart: Camp and pagentry connoisseur
+  
+> :seedling: Plant lady
   
   
   
