@@ -13,7 +13,7 @@ Connect
 <a href=mailto:claudia.chajon@gmail.com target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon%40gmail.com-ceff9c?style=flat-square&logo=gmail" alt="xtenzq" width="240px" /></a>
 
 
-  
+<h2>  
   
 <a href="https://www.linkedin.com/in/claudia-chajon/" target="blank"><img align="left" src="https://img.shields.io/badge/-%40claudia--chajon-ff9cce?style=flat-square&logo=linkedin" width="150px" /></a>
 
@@ -24,11 +24,9 @@ Connect
 
   
   
+<h2> 
   
   
-  
-  
-<h2>  
   
 > :books: Self-starter and life long learner
 
