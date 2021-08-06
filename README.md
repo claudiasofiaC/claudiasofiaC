@@ -28,6 +28,8 @@ Connect
   
 - <a href="https://drive.google.com/file/d/157g17941Vlbn4LUEg3Wusd0RPJLI9tPV/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
   
+  
+  
 - :books: Self-starter and life long learner
 
 - :computer: Data, software, & machine learning 
