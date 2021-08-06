@@ -28,19 +28,19 @@ Connect
   
   
   
-> :books: Self-starter and life long learner
+- :books: Self-starter and life long learner
 
-> :computer: Data, software, & machine learning 
+- :computer: Data, software, & machine learning 
   
-> :space_invader: Computer Vision, neural networks and deep learning, algorithms
+- :space_invader: Computer Vision, neural networks and deep learning, algorithms
   
-> :art: Crochet enthusiast, fiber artist
+- :art: Crochet enthusiast, fiber artist
   
-> :alien: Sci-fi enjoyer 
+- :alien: Sci-fi enjoyer 
   
-> :sparkling_heart: Camp and pageantry connoisseur
+- :sparkling_heart: Camp and pageantry connoisseur
   
-> :seedling: Plant lady
+- :seedling: Plant lady
   
   
   
