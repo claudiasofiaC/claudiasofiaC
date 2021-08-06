@@ -6,7 +6,7 @@
 Connect 
 <h2> 
   
-<a href="https://www.claudiachajon.me" target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon-cd9cff?style=plastic&logo=notion" alt="xtenzq" width="150px" /></a>
+<a href="https://www.claudiachajon.me" target="blank"><img align="left" src="https://img.shields.io/badge/-claudiachajon.me-cd9cff?style=plastic&logo=notion" alt="xtenzq" width="150px" /></a>
 
 
 
@@ -28,6 +28,7 @@ Connect
   
 - <a href="https://drive.google.com/file/d/157g17941Vlbn4LUEg3Wusd0RPJLI9tPV/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
   
+<h2>
   
   
 - :books: Self-starter and life long learner
