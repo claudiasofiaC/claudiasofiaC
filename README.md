@@ -8,7 +8,7 @@ Connect
   
 <a href="https://www.claudiachajon.me" target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon-cd9cff?style=plastic&logo=notion" alt="xtenzq" width="150px" /></a>
 
-<a href="https://drive.google.com/file/d/157g17941Vlbn4LUEg3Wusd0RPJLI9tPV/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
+
 
 <a href=mailto:claudia.chajon@gmail.com target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon%40gmail.com-ceff9c?style=plastic&logo=gmail" alt="xtenzq" width="240px" /></a>
 
@@ -19,7 +19,6 @@ Connect
 
 <a href="https://medium.com/@claudia.chajon" target="blank"><img align="left" src="https://img.shields.io/badge/-claudia--chajon-9cffcd?style=plastic&logo=medium" alt="xtenzq" width="150px" /></a>
   
-<a href="https://twitter.com/ChipChajon" target="blank"><img align="left" src="https://img.shields.io/badge/-%40ChipChajon-9cceff?style=plastic&logo=twitter" alt="xtenzq" width="150px" /></a>
 
 
   
@@ -27,6 +26,7 @@ Connect
 <h2> 
   
   
+- <a href="https://drive.google.com/file/d/157g17941Vlbn4LUEg3Wusd0RPJLI9tPV/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
   
 - :books: Self-starter and life long learner
 
