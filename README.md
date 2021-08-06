@@ -6,9 +6,9 @@
 Connect 
 <h2> 
   
-<a href="https://www.notion.so/Data-Scientist-Story-Teller-fe91fe025687454484c0294d1d90e855" target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon-cd9cff?style=plastic&logo=notion" alt="xtenzq" width="150px" /></a>
+<a href="https://www.claudiachajon.me" target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon-cd9cff?style=plastic&logo=notion" alt="xtenzq" width="150px" /></a>
 
-<a href="https://drive.google.com/file/d/146kkTIuAavciSZmH_4sAsZwMW_EoR0PC/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
+<a href="https://drive.google.com/file/d/157g17941Vlbn4LUEg3Wusd0RPJLI9tPV/view?usp=sharing" target="blank"><img align="left" src="https://img.shields.io/badge/-Resume-ffcfe7?style=plastic" alt="xtenzq" width="75px" /></a>
 
 <a href=mailto:claudia.chajon@gmail.com target="blank"><img align="left" src="https://img.shields.io/badge/-claudia.chajon%40gmail.com-ceff9c?style=plastic&logo=gmail" alt="xtenzq" width="240px" /></a>
 
