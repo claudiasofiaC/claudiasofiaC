@@ -11,10 +11,13 @@ I'm Claudia, a data scientist with a passion for all things data! When I am not 
 
 
 
-**Languages**:Python, SQL,OOP/Agile, R
-**Data Tools**: 
-**Machine Learning**:
-Database/Hosting**: AWS/Elastic Beanstalk, Heroku, PostgresSQL, MongoDB
+**Languages**:Python, SQL, OOP/Agile, R
+
+**Data Tools**: NumPy, Pandas, Matplotlib, Plotly, spaCy, seaborn, Dash, VADER
+
+**Machine Learning**: Tensorflow/Keras, OpenCV, Scikit-learn, Pytorch
+
+**Database/Hosting**: AWS/Elastic Beanstalk, Heroku, PostgresSQL, MongoDB
 
 
 ## Where to find me online! ✨ 
