@@ -9,9 +9,7 @@ I'm Claudia, a data scientist with a passion for all things data! When I am not 
 
 ## Skills 
 
-
-
-**Languages**:Python, SQL, OOP/Agile, R
+**Languages**: Python, SQL, OOP/Agile, R
 
 **Data Tools**: NumPy, Pandas, Matplotlib, Plotly, spaCy, seaborn, Dash, VADER
 
@@ -21,9 +19,7 @@ I'm Claudia, a data scientist with a passion for all things data! When I am not 
 
 
 ## Where to find me online! ✨ 
-
-
-  
+ 
 [Portfolio](https://www.claudiachajon.me) - Where most of my projects live!
 
 [Medium](https://medium.com/@claudia.chajon) - All of my published articles!
