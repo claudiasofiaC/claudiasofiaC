@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Claudia #
+# ✨ Hi, I'm Claudia ✨ #
 
 <h2> 
 Connect 
