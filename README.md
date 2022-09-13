@@ -20,7 +20,7 @@ I'm Claudia, a data scientist with a passion for all things data! When I am not 
 
 ## Where to find me online! ✨ 
  
-[Portfolio](https://claudiacodes.super.site/) - Where most of my projects live!
+[Portfolio](https://claudiasofiac.github.io/) - Where most of my projects live!
 
 [Medium](https://claudia-chajon.medium.com/) - All of my published articles!
 
